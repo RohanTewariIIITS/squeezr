@@ -1,4 +1,4 @@
-📱 Squeezr
+#📱 Squeezr
 
 Squeezr is a lightweight image compression app built with Jetpack Compose that makes it easy to share and optimize images without losing quality.
 
